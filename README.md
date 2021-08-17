@@ -21,3 +21,5 @@ tns debug <platform>
 tns build <platform> --env.production
 
 ```
+
+Test on Work
